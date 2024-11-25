@@ -1,0 +1,44 @@
+/* CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+.kotak{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    border: 1px solid;
+    width: 700px;
+}
+
+div>div {
+    width: 100px;
+    height: 100px;
+}
+
+.kotak1 {
+    background-color: lightblue;
+}
+
+.kotak2 {
+    background-color: red;
+}
+
+.kotak3 {
+    background-color: yellow;
+}
+
+.kotak4 {
+    background-color: green;
+}
+
+.kotak5 {
+    background-color: purple;
+}
+
+
